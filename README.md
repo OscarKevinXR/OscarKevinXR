@@ -1,5 +1,7 @@
 ### Hi there 👋
 Welcome to the Tempest. 
+
+![aincrad](img/aincrad.gif)
 <!--
 **OhKairos/OhKairos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
