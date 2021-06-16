@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings Traveler 👋
 Welcome to the Tempest. 
 
 <p align="center">
