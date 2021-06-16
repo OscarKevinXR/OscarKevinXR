@@ -1,5 +1,5 @@
 ### Greetings Traveler 👋
-Welcome to the Tempest 🌀💫⚔
+Welcome to the Tempest 🌀💫
 
 <p align="center">
   <img src="img/aincrad.gif">
