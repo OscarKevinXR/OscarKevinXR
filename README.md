@@ -7,7 +7,7 @@ Welcome to the Tempest 🌀💫
 
 Ousikai is the founder of [Atemosta](https://atemosta.com), an startup company focused on the integration of 
 * XR (Augmented and Virtual Reality)
-* Blockchain (Ethereum) 
+* Blockchain (Ethereum), and
 * Creative Writing 
 
 to re-imagine and interoperate our identities and influence across the physical and digital worlds. 
