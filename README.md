@@ -5,7 +5,7 @@ Welcome to the Tempest 🌀💫
   <img src="img/aincrad.gif">
 </p>
 
-Ousikai is the founder of [Atemosta](https://atemosta.com), an startup company focused on the integration of 
+OscarKevinXR is the founder of [Atemosta](https://atemosta.com), an startup company focused on the integration of 
 * XR (Augmented and Virtual Reality)
 * Blockchain, and
 * Creative Writing 
