@@ -12,8 +12,10 @@ OscarKevinXR is the founder of [Atemosta](https://atemosta.com), an startup comp
 
 to re-imagine and interoperate our identities and influence across the physical and digital worlds. 
 
+<!--
 ### IMPORANT UPDATE!!!
 We have moved to GitLab! Follow our projects over at [https://gitlab.com/atemosta](https://gitlab.com/atemosta).
+-->
 
 <!--
 **OscarKevinXR/OscarKevinXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
