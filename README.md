@@ -12,6 +12,9 @@ OscarKevinXR is the founder of [Atemosta](https://atemosta.com), an startup comp
 
 to re-imagine and interoperate our identities and influence across the physical and digital worlds. 
 
+<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake.svg#gh-light-mode-only" width="500" height="150" />
+<img src="https://raw.githubusercontent.com/sawa-ko/sawa-ko/master/assets/github-snake-dark.svg#gh-dark-mode-only" width="500" height="150" />
+
 <!--
 ### IMPORANT UPDATE!!!
 We have moved to GitLab! Follow our projects over at [https://gitlab.com/atemosta](https://gitlab.com/atemosta).
